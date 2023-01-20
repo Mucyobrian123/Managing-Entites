@@ -1,0 +1,12 @@
+[
+  {
+    "staffId": 123,
+    "staffName": "Mugisha Caleb",
+    "staffPosition": "Manager"
+  },
+  {
+    "staffId": 124,
+    "staffName": "Uwayo Uwacu",
+    "staffPosition": "attendance recorder"
+  }
+]

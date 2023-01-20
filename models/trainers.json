@@ -1,0 +1,12 @@
+[
+  {
+    "trainerId": 12,
+    "trainerName": "Paul Arah",
+    "trainerStack": "NodeJs"
+  },
+  {
+    "trainerId": 13,
+    "trainerName": "Bienvenu Ishimwe",
+    "trainerStack": "PHP "
+  }
+]

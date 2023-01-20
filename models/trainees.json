@@ -1,0 +1,12 @@
+[
+  {
+    "traineesId": 1231,
+    "traineesName": "Shalom Dauphin",
+    "traineesStack": "NodeJs"
+  },
+  {
+    "traineesId": 1232,
+    "traineesName": "Bivegete Kevin",
+    "traineesStack": "ReactJs"
+  }
+]
